@@ -1,0 +1,1068 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"resp"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"ema",
+				"email1"
+			],
+			[
+				"row",
+				"row_data"
+			],
+			[
+				"test",
+				"test_topup"
+			],
+			[
+				"sour",
+				"source_msisdn"
+			],
+			[
+				"dest",
+				"dest_msisdn"
+			],
+			[
+				"plan2",
+				"plan2d"
+			],
+			[
+				"plan1",
+				"plan1d"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"plan",
+				"plan1_go"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"bt",
+				"btn_container"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"col",
+				"col-md-offset-2"
+			],
+			[
+				"col-",
+				"col-sm-4"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"wsd",
+				"wsdl_url"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"sleep",
+				"sleep_time"
+			],
+			[
+				"acti",
+				"activate_bundle"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"id",
+				"id_plan"
+			],
+			[
+				"sessio",
+				"session_destroy"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"desc",
+				"descuento"
+			],
+			[
+				"activ",
+				"activate_sim"
+			],
+			[
+				"issue",
+				"doc_issue_date"
+			],
+			[
+				"documen",
+				"document_id"
+			],
+			[
+				"act",
+				"activate_sim"
+			],
+			[
+				"time",
+				"timeSecond"
+			],
+			[
+				"tim",
+				"timeSecond"
+			],
+			[
+				"service_CAll",
+				"service_CallMe"
+			],
+			[
+				"subs",
+				"subscription_id"
+			],
+			[
+				"ac",
+				"activate_sim"
+			],
+			[
+				"_get",
+				"_get_subscriber_by_iccid"
+			],
+			[
+				"cust",
+				"customer_id"
+			],
+			[
+				"request",
+				"request_body"
+			],
+			[
+				"para",
+				"params_json"
+			],
+			[
+				"req",
+				"request_body"
+			],
+			[
+				"get_",
+				"get_enterprise_bundles"
+			],
+			[
+				"bun",
+				"activate_bundle"
+			],
+			[
+				"messa",
+				"messageId"
+			],
+			[
+				"c",
+				"curl"
+			],
+			[
+				"curl_",
+				"curl_getinfo"
+			],
+			[
+				"mes",
+				"messageId"
+			],
+			[
+				"sms",
+				"sms_data"
+			],
+			[
+				"enterpsi",
+				"enterprise"
+			],
+			[
+				"s",
+				"subscriber_id"
+			],
+			[
+				"subscri",
+				"subscriber_data"
+			],
+			[
+				"get_su",
+				"get_subscriber_info"
+			],
+			[
+				"reso",
+				"response_array"
+			],
+			[
+				"curl",
+				"curl_close"
+			],
+			[
+				"usuario",
+				"usuario_app"
+			],
+			[
+				"activar",
+				"activar_app_ID"
+			],
+			[
+				"validac",
+				"validacion_cte_mobile"
+			],
+			[
+				"new",
+				"new_number"
+			],
+			[
+				"ne",
+				"new_number"
+			],
+			[
+				"arr",
+				"arr_numbers"
+			],
+			[
+				"a",
+				"arr_numbers"
+			],
+			[
+				"activa",
+				"activate_bundle"
+			],
+			[
+				"get_m",
+				"get_msisdn_balance"
+			],
+			[
+				"valita",
+				"valitation_line"
+			],
+			[
+				"scr",
+				"script_settings"
+			],
+			[
+				"var",
+				"get_object_vars"
+			],
+			[
+				"disp",
+				"arr_display_number"
+			],
+			[
+				"email_",
+				"email_1"
+			],
+			[
+				"ms",
+				"msisdn"
+			],
+			[
+				"transaction",
+				"transaction_id"
+			],
+			[
+				"qy",
+				"query_topup"
+			],
+			[
+				"exist",
+				"exists"
+			],
+			[
+				"distributor_",
+				"distributor_id"
+			],
+			[
+				"dis",
+				"distributor_id"
+			],
+			[
+				"transa",
+				"transaction_id_sent"
+			],
+			[
+				"query",
+				"query_topup"
+			],
+			[
+				"transaction_id",
+				"transaction_id_sent"
+			],
+			[
+				"input",
+				"input_data"
+			],
+			[
+				"topup",
+				"topup_msisdn"
+			],
+			[
+				"inp",
+				"input_data"
+			],
+			[
+				"enter",
+				"enterprise_info"
+			],
+			[
+				"distri",
+				"distributor_id"
+			],
+			[
+				"em",
+				"enterprise_name"
+			],
+			[
+				"dist",
+				"distributor_name"
+			],
+			[
+				"topu",
+				"topup_msisdn"
+			],
+			[
+				"st",
+				"stmt"
+			],
+			[
+				"jso",
+				"decode_json"
+			],
+			[
+				"customer_",
+				"customer_info"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"rec",
+				"recharge_info"
+			],
+			[
+				"subscriber",
+				"subscriber_info"
+			],
+			[
+				"subscribe",
+				"subscriber_info"
+			],
+			[
+				"su",
+				"subscriber_info"
+			],
+			[
+				"top",
+				"topup_msisdn"
+			],
+			[
+				"setting",
+				"settings"
+			],
+			[
+				"tes",
+				"test_mode"
+			],
+			[
+				"respnse",
+				"responseCode"
+			],
+			[
+				"distribu",
+				"distributors"
+			],
+			[
+				"distributor",
+				"distributor_name"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"enterprise",
+				"enterprise_id"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"ente",
+				"enterprise_info"
+			],
+			[
+				"get",
+				"get_enterprise"
+			],
+			[
+				"up",
+				"upload_history_file"
+			],
+			[
+				"sft",
+				"sftp_info"
+			],
+			[
+				"li",
+				"limit_date"
+			],
+			[
+				"file",
+				"file_content"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"send",
+				"sending_list"
+			],
+			[
+				"email",
+				"email_data"
+			],
+			[
+				"fila",
+				"filepath"
+			],
+			[
+				"us",
+				"userid"
+			],
+			[
+				"fecha",
+				"fecha1"
+			],
+			[
+				"trans",
+				"transaction_log"
+			],
+			[
+				"transactns",
+				"transactions"
+			],
+			[
+				"script",
+				"script_data"
+			],
+			[
+				"config",
+				"config_set"
+			],
+			[
+				"d",
+				"dbh"
+			],
+			[
+				"reseller_",
+				"reseller_balance"
+			],
+			[
+				"msg",
+				"msg_body"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"sepa",
+				"separator"
+			],
+			[
+				"gene",
+				"generateConcilliationFile"
+			],
+			[
+				"pg_num",
+				"pg_num_rows"
+			],
+			[
+				"strt",
+				"strtoupper"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: pe",
+				"Package Control: Install Package"
+			],
+			[
+				"view ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"co",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 346.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/gwtest.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_frontend/environments/local.yml",
+		"/Applications/XAMPP/xamppfiles/htdocs/script_ugw.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/topup.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/upload_from_iccid.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/DASH/Modules/PrepayGWiNew.pm",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/environments/staging.yml",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/ceet_script_ingresar_infusion_pedientes_APP.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/upload_numbers.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/ceet_script_sms_contacto.php",
+		"/Users/fabianortiz/Documents/DOCS VIRFON/Uff/Query - Tansacciones por Gestor.sql",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/script_sms_campaign.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/clase.conexion.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/pruebas.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/index.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/config.general.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/environments/local.yml",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/environments/development.yml",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/ebilling.pm",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/upload_lines.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/files/factura.tmpl",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/DASH/Modules/billmanagement.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/upload_lines.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/CallMe.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/upload_numbers.php",
+		"/Users/fabianortiz/Downloads/ProductoSim/src/productosim/Simulador.java",
+		"/Users/fabianortiz/Documents/Universidad/Simulacion/3er Corte/Final/ProductoSim/src/productosim/Simulador.java",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/Reportes.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/subida.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/sepp_batch/subida.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/sepp_batch/index.php",
+		"/Users/fabianortiz/Documents/DOCS VIRFON/WEB ETR/SECURE VIRFON/unbounce/etr-0008-na/crear-cliente.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/sms-gateway/model/User.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/subir.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/virfon_sc/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/sepp/application/libraries/Excel.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/phpinfo.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/User.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/environments/production.yml",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/DASH/Modules/enterprise.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/script_ingresar_infusion.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/script_display_number.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/sim_activation_records.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/buscar_cl_business.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/crear_app.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/concilliation.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/cliente.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/webserviceCVCOL.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/test_ws.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/create-account.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/webserviceCVCOL 2.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/config.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/config 2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/uff_stg/client.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/test_xml.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/prepayWS/prepayResellerServices.php",
+		"/Users/fabianortiz/Documents/DOCS VIRFON/WEB ETR/SECURE VIRFON/unbounce/2015/virfon/etr-0007-rdm/crear-cliente.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/order-summary.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/personal-info.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/order-detail.php",
+		"/Users/fabianortiz/Documents/DOCS VIRFON/WEB ETR/WebServices/webservices_stg/script_ingresar_infusion.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/config.funciones.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/clase.serviciosinew.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/recharge 2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prepayadmin/application/models/Topup_model.php",
+		"/Users/fabianortiz/.homestead/Homestead.yaml",
+		"/Applications/XAMPP/xamppfiles/htdocs/upload_lines.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/prepayWS/client.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/tigo.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/gw.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/test.html",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/enterprise.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/recharge.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/sim_activation_records.php",
+		"/Users/fabianortiz/Documents/Universidad/Integracion WEB/3er Corte/P3-REST-Session/AdminAPI.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/P3-ComparadorAdmin/persistencia/Conexion1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/P3-ComparadorAdmin/persistencia/Conexion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prepay/prepayResellerServices.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prepay/class/Validator.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prepay/class/Database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prepayadmin/application/models/User_model.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/sim_activation_records.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/info_cliente.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/form_venta_paso2.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/consultas.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/resumen_compra.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/form_venta_paso4.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/Validacion_IMEI.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/client.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/simulacion/paseo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/s2/paseo.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/phpthumb.class.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/config.globales.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/DASH/Utilities/ParamsRules.pm",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/DASH/Modules/Iatai.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/clase.wssim.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/gatewaytigoInt.pm",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/DASH/Modules/SMSgw.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/CallDelayControl.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/CallMeTestController.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/CallMeController.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/CallMeTest.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/routes.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/RequestsLog.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/APIAuth.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/DASH/Plugins/Helpers.pm",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/DASH/Plugins/Auth_APP.pm",
+		"/Applications/XAMPP/xamppfiles/htdocs/test.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/SMSgw.pm",
+		"/Applications/XAMPP/xamppfiles/htdocs/testsms.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_backend/lib/billmanagement.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/clase.paneldebitoorden.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/test.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_frontend/public/js/controllers/mvne_services/msisdnAdminController.js",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_frontend/views/states/mvne_services/msisdnAdmin.tt",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/scripts/topup/reseller_balance.php",
+		"/Applications/mappstack-5.5.35-1/apache2/htdocs/homestead/ugateway/gw_frontend/public/js/services/mainServices.js",
+		"/Users/fabianortiz/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/inscripcion.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/prov.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/provtest.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/sepp/index.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/enterprise.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/config.yml",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/reseller_balance.pm",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/test_cliente 2.php",
+		"/private/var/folders/34/88ydp6q93qj7xlxxh_725f2h0000gn/T/fz3temp-1/test_cliente.php",
+		"/Users/fabianortiz/Documents/DOCS VIRFON/WEB ETR/home/secureel/public_html/webservices_stg/script_ingresar_infusion.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"resolu",
+			"fecha",
+			"();\n",
+			"currenc",
+			"ingresarLogConsumo",
+			"http://localhost:8009",
+			"adicionarApp",
+			"2",
+			"1",
+			"id_plan invalido",
+			"env",
+			"I_ENV",
+			"env",
+			"function crearcliente",
+			"error_re",
+			"error",
+			"mino",
+			"crearCliente",
+			"mes_cum",
+			"('",
+			"formadeingreso",
+			"sleep(1);",
+			"sleep",
+			"functio",
+			"functiom",
+			"obtenerDatosPais",
+			"prefij",
+			"prefi",
+			"sleep",
+			"attach",
+			"get_msisdn_balance",
+			"get_msis",
+			"Balance_details",
+			"getacc",
+			"error-goal",
+			"actualizarLogInfusion",
+			"Escapar",
+			"soapcall",
+			"getSubscriberByIccid",
+			"id_plan",
+			"valor",
+			"pais_destino",
+			"cp",
+			"_search_identification_inew",
+			"_get_subscriber_by_iccid",
+			"promo",
+			"$vr_plan",
+			"Valor del plan:",
+			"240",
+			"metodo",
+			"timeou",
+			"activate_sim",
+			"_activate_sim_card",
+			"_get_subscriber_by_iccid",
+			"_activate_sim_card",
+			"activate_sim_car",
+			"activate_sim",
+			"config_mysql_database",
+			"_activate_sim_card",
+			"_cifin",
+			"_search_identification_cifin",
+			"activateSim",
+			"activatesi",
+			"_search_identification_cifin",
+			"activate_sim",
+			"actiate_sim",
+			"_search_identification_cifin",
+			"_search_identification",
+			"_attach_subscription_to_customer",
+			"_attach",
+			"_attach_subscription_to_customer",
+			"error",
+			"errpr",
+			"_get_subscriber_by_iccid",
+			"_search_identification",
+			"ERROR",
+			"_attach_subscription_to_customer",
+			"_attach_",
+			"header",
+			"_attach_subscription_to_customer",
+			"_search_identification",
+			"_get_subscriber_by",
+			"_attach_subscription_to_customer",
+			"_GET_SUBSCRiber_by",
+			"_GET_SUBSCR",
+			"activate_s",
+			"get_subscriber_b",
+			"getsubsrciber",
+			"_get_subscriber_by",
+			"_get_subscriber_b",
+			"envelope",
+			"_get_subscr",
+			"envelop",
+			"namesp",
+			"envelop",
+			"soap",
+			"_get_subscriber",
+			"_get_subsc",
+			"_search_id",
+			"activate_s",
+			"_search_id",
+			"search_id",
+			"search",
+			"subscriber",
+			"enterprise",
+			"4",
+			"enterprise",
+			"step_id",
+			"record_raw",
+			"_search_id",
+			"topup_msisdn",
+			"topup_msis",
+			"_search_id",
+			"JSON::encode_json( $input_data )",
+			"_search_i",
+			"_search_",
+			"search_",
+			"search_i",
+			"request_search_cc",
+			"search",
+			"search?id",
+			"search",
+			"json",
+			"decode_json",
+			"json",
+			"search",
+			"dumper",
+			"192.168.10.1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://10.216.111.103:8004",
+			"3",
+			"2",
+			"sleep($sleep_time);",
+			"localhost",
+			"",
+			"\"",
+			"$line = ",
+			"$line .= $line.",
+			"&=",
+			"InnoDB",
+			"toMoney(",
+			"guardarLog($tipo_query,$_SERVER['QUERY_STRING'],$i_customer,$i_account,$resp_message,$_SERVER['HTTP_USER_AGENT'],$_SERVER['REMOTE_ADDR']);",
+			"HTTP_USER_AGENT",
+			"mysql_",
+			"guardarLog($tipo_query,$_SERVER['QUERY_STRING'],$resp_message,$_SERVER['USER_AGENT'],$_SERVER['REMOTE_ADDR']);",
+			"$rechargeInfo{'",
+			"'.$error_message.'",
+			"\\'",
+			"\"/>';",
+			"</",
+			"$responseXML .= '<",
+			"$responseXML .= '",
+			"**",
+			"\\'",
+			"\"'.$ns.'\"",
+			"my ($url_internal,$ns) = @_;",
+			"$wsdl",
+			"http://ws.webscp.gatewaytigov19.tigo.com.co/",
+			"gatewaytigoscpintv19",
+			"'.$url_internal.'",
+			"ns2",
+			"document",
+			"rpc",
+			"my $ws_ns = \"http://www.inew-cs.com/mvno/integration/TopupService/\"; ",
+			"$inew_url",
+			"timeout=200",
+			"transactionId =>",
+			"S",
+			"currencyName => ",
+			"currencyId => ",
+			"partitionName => ",
+			"partitionId => ",
+			"name => ",
+			"id => ",
+			"dedicatedMoneyDTO",
+			"ws:",
+			"debitResponseDTO",
+			"rechargeResponseDTO",
+			"message",
+			"information",
+			"target",
+			"eRecharge",
+			"moneyDTO",
+			"amount",
+			"getElementsByTagName( 'name' )",
+			"getElementsByTagName( 'id' )",
+			"'amount'",
+			"'",
+			"i-New API Error",
+			"userAgent",
+			"$xml_request .= \"<",
+			">\";",
+			"$xml_request .= \"<",
+			"eq 'inew'",
+			"eq 'tigo'",
+			">\";",
+			"$xml_request .= \"<",
+			">\";",
+			"\\\"",
+			"'",
+			"SOAP-ENV",
+			"$post_data = array( 'params' => json_encode(array('user' => $api_login, 'token' => $api_password)), ); ",
+			"$params = array(",
+			"$session_id = $params = array(\n\t       'login' => USUARIO_PORTA,\n\t       'token' => CLAVE_PORTA\n\t       );\n\n$session_id = $session_client->login($params)->session_id;",
+			"$params = array(\n\t                   'login' => USUARIO_PORTA,\n\t                   'token' => CLAVE_PORTA\n\t                  );\n\n\t\t\t\t\t$session_id = $session_client->login($params)->session_id;",
+			"$params = array(\n\t                   'login' => USUARIO_PORTA,\n\t                   'token' => CLAVE_PORTA\n\t                  );\n\n\t\t\t\t$session_id = $session_client->login($params)->session_id;",
+			"$params = array(\n\t       'login' => USUARIO_PORTA,\n\t       'password' => CLAVE_PORTA\n\t       );\n\n$session_id = $session_client->login($params)->session_id;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Applications/XAMPP/xamppfiles/htdocs/angular/leccion1",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
